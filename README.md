@@ -1,1 +1,1 @@
-# This is my Locsl Repo.
+# This is my Local Repo.
